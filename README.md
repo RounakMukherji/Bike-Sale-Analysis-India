@@ -32,6 +32,11 @@ The Power BI dashboard provides:
 - State-wise customer distribution
 - Monthly sales trends
 - Bike-type-wise revenue share
+<img width="874" height="489" alt="image" src="https://github.com/user-attachments/assets/00cc1f49-6a8d-4474-b56b-134fdddfc87c" />
+<img width="872" height="491" alt="image" src="https://github.com/user-attachments/assets/240bc370-aa28-4bb7-ad34-8fb650f67ef9" />
+<img width="872" height="493" alt="image" src="https://github.com/user-attachments/assets/24f7126e-5878-450c-8c48-8908abcb3f97" />
+
+
 
 # Key Insights
 - Certain bike models generate higher revenue due to repeated sales rather than high price.
